@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi TPS TEAM!! 
+          Gracee Elton 
         </p>
         <a
           className="App-link"
